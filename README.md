@@ -11,17 +11,26 @@
 🎯 Hoje busco uma oportunidade de **estágio na área de desenvolvimento**, para aplicar meus conhecimentos, ganhar experiência prática e continuar crescendo profissionalmente.  
 📫 Você pode me encontrar também no [LinkedIn](https://www.linkedin.com/in/thiagowaquim/).
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thiagowaquim/">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+         src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <!-- GitHub -->
   <a href="https://github.com/Tw057?tab=followers">
-    <img alt="followers" title="Follow me on Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/Tw057?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Siga-me no GitHub" 
+         src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/Tw057?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/Tw057?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="stars" title="Total de estrelas no GitHub" 
+         src="https://img.shields.io/badge/Stars-Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+    <img alt="YouTube" title="Inscreva-se no meu canal" 
+         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
