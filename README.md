@@ -71,9 +71,8 @@
     title="n8n"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" 
+    src="https://n8n.io/favicon.svg" 
 />
-
 <img 
     align="left" 
     alt="Power BI" 
