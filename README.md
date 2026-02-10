@@ -71,7 +71,7 @@
     title="n8n"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://n8n.io/favicon.svg" 
+    src="https://n8n.io/favicon.ico" 
 />
 <img 
     align="left" 
