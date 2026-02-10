@@ -11,7 +11,7 @@
 🎯 Hoje busco uma oportunidade de **estágio na área de desenvolvimento**, para aplicar meus conhecimentos, ganhar experiência prática e continuar crescendo profissionalmente.  
 📫 Você pode me encontrar também no [LinkedIn](https://www.linkedin.com/in/thiagowaquim/).
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1"> https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
        </a>
       <a href="https://www.youtube.com/c/fknight">
          </a>
