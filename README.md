@@ -20,13 +20,13 @@
   <!-- GitHub Followers -->
   <a href="https://github.com/Tw057?tab=followers">
     <img alt="followers" title="Follow me on Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/Tw057?color=0A66C2&labelColor=004182&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/followers/Tw057?color=6f42c1&labelColor=4b2e83&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
 
   <!-- GitHub Stars -->
   <a href="https://github.com/Tw057?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/Tw057?color=0A66C2&style=for-the-badge&labelColor=004182&logo=star&label=Stars&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/stars/Tw057?color=f59e0b&style=for-the-badge&labelColor=c47f17&logo=star&label=Stars&logoColor=white"/>
   </a>
 </p>
 
