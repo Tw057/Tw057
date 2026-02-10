@@ -7,7 +7,7 @@
 💻 Estudo programação há cerca de 2 anos, com foco atual em **PHP e desenvolvimento backend**. Também já explorei **HTML, CSS e JavaScript** para criar aplicações web.  
 🚀 Sou apaixonado por tecnologia e estou construindo meu portfólio aqui no GitHub, publicando projetos fictícios e práticos para mostrar minha evolução.  
 🎯 Hoje busco uma oportunidade de **estágio na área de desenvolvimento**, para aplicar meus conhecimentos, ganhar experiência prática e continuar crescendo profissionalmente.  
-📫 Você pode me encontrar também no [LinkedIn](link-do-seu-linkedin).
+📫 Você pode me encontrar também no [LinkedIn]([link-do-seu-linkedin](https://www.linkedin.com/in/thiagowaquim/)).
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
