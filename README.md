@@ -81,4 +81,7 @@
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
+<br/>
+<br/>
 
+### 📊 Estatísticas
