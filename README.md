@@ -25,7 +25,7 @@
   <!-- GitHub Stars -->
   <a href="https://github.com/Tw057?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/Tw057?color=f59e0b&style=for-the-badge&labelColor=c47f17&logo=star&label=Stars&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/stars/Tw057?color=f59e0b&style=for-the-badge&labelColor=c47f17&logo=star&label=Estrelas&logoColor=white"/>
   </a>
 </p>
 
