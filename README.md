@@ -18,8 +18,8 @@
 
   <!-- GitHub Followers -->
   <a href="https://github.com/Tw057?tab=followers">
-    <img alt="Seguidores" title="Follow me on Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/Tw057?color=6f42c1&labelColor=4b2e83&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    <img alt="Followers" title="Follow me on Github" 
+         src="https://custom-icon-badges.demolab.com/github/followers/Tw057?color=6f42c1&labelColor=4b2e83&style=for-the-badge&logo=person-add&label=seguidores&logoColor=white"/>
   </a>
 
   <!-- GitHub Stars -->
