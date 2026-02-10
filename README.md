@@ -65,7 +65,21 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<img 
+    align="left" 
+    alt="n8n" 
+    title="n8n"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://seeklogo.com/images/N/n8n-logo-8E3C0B6C7E-seeklogo.com.svg" 
+/>
 
-
-
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+/>
 
