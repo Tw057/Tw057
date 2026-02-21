@@ -71,8 +71,8 @@
 
 ## 🐍 Contribuições em Snake
 
-![snake gif](https://github.com/Tw057/Tw057/blob/output/github-contribution-grid-snake.svg)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tw057/Tw057/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
 
 ⭐ Sempre evoluindo. Sempre aprendendo. Sempre construindo.
